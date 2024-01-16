@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/wejlab/wejlab.github.io/blob/main/wejlab_logo.jpg"  width=50%>
-</p>
-
 ![](https://github.com/wejlab/wejlab.github.io/blob/main/wejlab_logo.jpg)
 
 # Welcome to the Johnson Lab Software Page
