@@ -1,4 +1,4 @@
-![wejlab logo](docs/assets/wejlab_logo.jpg)
+<!-- ![wejlab logo](docs/assets/wejlab_logo.jpg) -->
 
 <img src="docs/assets/wejlab_logo.jpg" alt="Logo" class="center" width="50%">
 
