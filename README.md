@@ -4,14 +4,14 @@
 
 # Welcome to the Johnson Lab Software Page
 
-Check out the [Johnson Lab homepage](https://www.wejlab.org)
+Check out the [Johnson Lab Homepage (https://www.wejlab.org)](https://www.wejlab.org)
 
 ## GitHub Links
 Our Lab's software projects can be found at the following GitHub repositories: 
 
-[Evan Johnson's Personal GitHub Repository](https://github.com/wevanjohnson)
-
 [WEJ Lab GitHub Repository](https://github.com/wejlab/)
+
+[Evan Johnson's Personal GitHub Repository](https://github.com/wevanjohnson)
 
 ## Some of our most popular projects: 
 
