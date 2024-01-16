@@ -1,5 +1,7 @@
 ![wejlab logo](docs/assets/wejlab_logo.jpg)
 
+<img src="docs/assets/wejlab_logo.jpg" alt="Logo" class="center">
+
 # Welcome to the Johnson Lab Software Page
 
 Check out the [Johnson Lab homepage](https://www.wejlab.org)
