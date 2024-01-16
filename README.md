@@ -7,9 +7,9 @@
 ## GitHub Links
 Our Lab's software projects can be found at the following GitHub repositories: 
 
-![Evan Johnson's Personal GitHub Repository](https://github.com/wevanjohnson)
+[Evan Johnson's Personal GitHub Repository](https://github.com/wevanjohnson)
 
-![WEJ Lab GitHub Repository](https://github.com/wejlab/)
+[WEJ Lab GitHub Repository](https://github.com/wejlab/)
 
 ## Some of our most popular projects: 
 
