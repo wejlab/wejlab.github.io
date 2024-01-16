@@ -1,4 +1,4 @@
-![](https://github.com/wejlab/wejlab.github.io/blob/main/wejlab_logo.jpg)
+![wejlab logo](docs/assets/wejlab_logo.jpg)
 
 # Welcome to the Johnson Lab Software Page
 
