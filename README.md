@@ -4,7 +4,7 @@
 
 # Welcome to the Johnson Lab Software Page
 
-Check out the [Johnson Lab Homepage (https://www.wejlab.org)](https://www.wejlab.org)
+Check out the Johnson Lab Homepage: [https://www.wejlab.org](https://www.wejlab.org)
 
 ## GitHub Links
 Our Lab's software projects can be found at the following GitHub repositories: 
