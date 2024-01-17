@@ -15,13 +15,13 @@ Our lab's software projects can be found at the following GitHub repositories:
 
 ## Some of our most popular projects: 
 
-__Combining Multiple Batches of -omic Data__(_ComBat, Combat-Seq, BatchQC:_) 
+__Combining Multiple Batches of -omic Data__(_ComBat, Combat-Seq, BatchQC_): Our tools for batch correction are highly cited, widely-used, and commonly downloaded (107,477 package downloads in 2020; top 3% of all packages in R/Bioconductor).
 * <ins>ComBat</ins> is a software for reducing batch effects when combining genomic data from different labs, experiments, or hybridization batches, or technology platforms. It utilizes an empirical Bayesian linear modeling approach to robustly account for technical variability across multiple high-thoughput studies.
 * <ins>ComBat-Seq</ins> uses a Negative Binomial error model to extend ComBat to sequencing-based experiments.
 * <ins>BatchQC</ins> is a user-interface for interactive evaluation of batch effects in -omic data.
 * _These tools are highly cited, widely-used, and commonly downloaded (107,477 package downloads in 2020; top 3% of all packages in R/Bioconductor)._  
 	
- __Metagenomic profiling and multi-sample analysis__ (_PathoScope, MetaScope, animalcules:_)
+ __Metagenomic profiling and multi-sample analysis__ (_PathoScope, MetaScope, animalcules_):
 * <ins>PathoScope 2.0</ins> is a complete bioinformatics framework for the metagenomic analysis of data from clinical or environmental sequencing samples. PathoScope includes modules for reference genome library extraction and indexing, read quality control and alignment, strain identification, and annotation of results. [PathoScope 2.0 Wiki](https://sourceforge.net/p/pathoscope/wiki/Home/) / [Publication](https://microbiomejournal.biomedcentral.com/articles/10.1186/2049-2618-2-33) / [GitHub](https://github.com/PathoScope/PathoScope)
 * <ins>animalcules</ins> is an R package for processing multi-sample metagenomic data and is specially designed for integration with PathoScope and MetaScope outputs with flexibility for other 16S and meta-omics pipeline outputs. The package provides an easy-to-use interactive microbiome analysis framework as a standalone software package or an interactive R Shiny application. [animalcules docs](https://wejlab.github.io/animalcules-docs/) / [Publication](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01013-0) / [Bioconductor](https://bioconductor.org/packages/release/bioc/html/animalcules.html) / [GitHub](https://github.com/wejlab/animalcules)
 * <ins>MetaScope</ins> is an R-based 16S, metagenomic, and metatranscriptomic profiling package that can accurately identify the composition of microbes at a strain-level resolution within a sample. MetaScope can be considered as a highly updated and expanded R translation of PathoScope 2.0. [MetaScope docs](https://wejlab.github.io/metascope-docs/) / [Bioconductor](https://bioconductor.org/packages/release/data/experiment/html/MetaScope.html) / [GitHub](https://github.com/wejlab/MetaScope/)
