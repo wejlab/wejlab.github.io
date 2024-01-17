@@ -8,10 +8,8 @@ Check out the Johnson Lab Homepage: [https://www.wejlab.org](https://www.wejlab.
 
 ## GitHub Links
 Our lab's software projects can be found at the following GitHub repositories: 
-
-[WEJ Lab GitHub Repository](https://github.com/wejlab/)
-
-[Evan Johnson's Personal GitHub Repository](https://github.com/wevanjohnson)
+* [WEJ Lab GitHub Repository](https://github.com/wejlab/)
+* [Evan Johnson's Personal GitHub Repository](https://github.com/wevanjohnson)
 
 ## Some of our most popular projects: 
 
