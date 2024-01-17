@@ -16,7 +16,10 @@ Our lab's software projects can be found at the following GitHub repositories:
 ## Some of our most popular projects: 
 
 __Combining Multiple Batches of -omic Data__(_ComBat, Combat-Seq, BatchQC:_) 
-* ComBat is a software for reducing batch effects when combining microarray data from different labs, experiments, or hybridization batches, or technology platforms. It utilizes an empirical Bayesian linear modeling approach to robustly account for technical variability across multiple high-thoughput studies. ComBat-Seq uses a Negative Binomial error model to extend ComBat to sequencing-based experiments. BatchQC is a user-interface for interactive evaluation of batch effects in -omic data. These tools are highly cited, widely-used, and commonly downloaded (107,477 package downloads in 2020; top 3% of all packages in R/Bioconductor).  
+* <ins>ComBat</ins> is a software for reducing batch effects when combining genomic data from different labs, experiments, or hybridization batches, or technology platforms. It utilizes an empirical Bayesian linear modeling approach to robustly account for technical variability across multiple high-thoughput studies.
+* <ins>ComBat-Seq</ins> uses a Negative Binomial error model to extend ComBat to sequencing-based experiments.
+* <ins>BatchQC</ins> is a user-interface for interactive evaluation of batch effects in -omic data.
+* _These tools are highly cited, widely-used, and commonly downloaded (107,477 package downloads in 2020; top 3% of all packages in R/Bioconductor)._  
 	
  __Metagenomic profiling and multi-sample analysis__ (_PathoScope, MetaScope, animalcules:_)
 * <ins>PathoScope 2.0</ins> is a complete bioinformatics framework for the metagenomic analysis of data from clinical or environmental sequencing samples. PathoScope includes modules for reference genome library extraction and indexing, read quality control and alignment, strain identification, and annotation of results. [PathoScope 2.0 Wiki](https://sourceforge.net/p/pathoscope/wiki/Home/) / [Publication](https://microbiomejournal.biomedcentral.com/articles/10.1186/2049-2618-2-33) / [GitHub](https://github.com/PathoScope/PathoScope)
