@@ -1,6 +1,6 @@
 <!-- ![wejlab logo](docs/assets/wejlab_logo.jpg) -->
 
-<img src="docs/assets/wejlab_logo.jpg" alt="Logo" class="center" width="25%">
+<img src="wejlab_logo.jpg" alt="Logo" class="center" width="25%">
 
 # Welcome to the Johnson Lab Software Page
 
